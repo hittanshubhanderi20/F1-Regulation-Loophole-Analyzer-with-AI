@@ -1,4 +1,10 @@
 # 🏁 F1 Regulation Loophole Analyzer with AI
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
+![LLM: Ollama](https://img.shields.io/badge/LLM-Gemma3%20%7C%20DeepSeek-brightgreen.svg)
+![LangChain](https://img.shields.io/badge/LangChain-enabled-purple.svg)
+![NLP-Powered](https://img.shields.io/badge/NLP-custom--pipeline-informational.svg)
+
 
 This project is an AI-powered analyzer designed to uncover **realistic performance loopholes in FIA Formula 1 regulations**. Using local LLMs and NLP techniques, it identifies, scores, and explains potential grey areas in F1 rules across seasons — helping teams or strategists prepare for the 2026 regulatory landscape.
 
