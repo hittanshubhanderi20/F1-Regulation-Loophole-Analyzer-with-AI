@@ -105,9 +105,9 @@ python loophole_engine.py
 
 ---
 
-## 📜 License
+## 📄 License
 
-MIT License — free to use, modify, or extend.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
