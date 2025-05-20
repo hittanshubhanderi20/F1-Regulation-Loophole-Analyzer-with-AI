@@ -1,0 +1,732 @@
+Section,Trigger Words,Excerpt,Suggested Loophole,Usefulness
+1.5,['required'],"1.5 
+New systems or technologies 
+Any new system, procedure or technology not specifically covered by these regulations, but 
+which is deemed permissible by the FIA Formula One Technical Department, will only be 
+admitted until the end of the Championship during which it is introduced. Following thi",Design adaptive aero parts that deform only above 250 km/h.,Medium
+3.1.3,['flow'],"3.1.3 
+External air stream 
+The flow of air around the car which has a primary impact on its aerodynamic performance.",Design adaptive aero parts that deform only above 250 km/h.,Medium
+3.1.10,['flow'],"3.1.10 Aerodynamic seal 
+The function by which the flow between two regions of different pressure is kept to the 
+minimum feasible magnitude.",Reduce cooling aperture under 'minimal required' wording.,Medium
+Article 3,['required'],"Article 3 is to enable cars to race closely, by 
+ensuring that the aerodynamic performance loss of a car following another car is kept to a 
+minimum. In order to verify whether this objective has been achieved, Competitors may be 
+required on request to supply the FIA with any relevant information. ",Reduce cooling aperture under 'minimal required' wording.,Low
+Article 3.10.10,['minimal'],"Article 3.10.10 (in addition to minimal parts solely associated with its actuation) 
+and the flexible seals specifically permitted by Articles 3.13 and 3.14.4, all aerodynamic 
+components or bodywork influencing the car’s aerodynamic performance must be rigidly 
+secured and immobile with respect to ",Exploit temperature-sensitive coatings that soften under load testing.,Impractical
+Article 3,['Minimal'],"Article 3 will also refer to the one side of the car. 
+Minimal exceptions to the requirement of symmetry of this Article will be accepted for the 
+installation of non-symmetrical mechanical components of the car, for asymmetrical cooling 
+requirements or for asymmetrical angle adjustment of the fron",Exploit temperature-sensitive coatings that soften under load testing.,Impractical
+Article 3.2.4,"['required', 'Minimal']","Article 3.2.4 and to ensure they remain inside the Reference 
+Volumes. 
+a. 
+Unless otherwise specified, a tolerance of ±3mm will be accepted for manufacturing 
+purposes only with respect to the CAD surfaces. Where measured surfaces lie outside of 
+this tolerance but remain within the Reference Volum",Redirect airflow through brake ducts under loosely defined dimensions.,Low
+3.2.6,['required'],"3.2.6 
+Datum Points 
+All cars must be equipped with mountings for optical targets that enable the car’s datum to 
+be determined for scrutineering in the following locations: 
+i. 
+One on the forward part of the top of the survival cell. 
+ii. 
+Two positioned symmetrically about Y=0 on the top of the s",Reduce cooling aperture under 'minimal required' wording.,Low
+Article 3.15.7,"['minimal', 'required', 'flow']","Article 3.15.7.c. Such features must be the minimal required for applying the loads 
+required by that article. 
+i.  
+All regions of its surface that are visible from above, outboard of Y=500 and forward of 
+XF=1700, must be visible from the side. 
+Once the surfaces defined as Floor Body have been de",Redirect airflow through brake ducts under loosely defined dimensions.,Medium
+Article 13.7,['minimal'],"Article 13.7. If fitted, this stay must: 
+i. 
+Have its inboard attachment point between XDIF=150 and XDIF=325 on the Rear 
+Impact Structure. 
+ii. 
+Be of a circular cross section with a diameter of no more than 5mm, with the 
+exception of minimal details at its inboard and outboard attachment points,",Reduce cooling aperture under 'minimal required' wording.,Medium
+section 10,['if required'],"section 10mm. Pockets may only be filled with a material having a 
+specific gravity of less than 0.25. 
+The following provisions apply to the skids. The lower surface of the plank may be fitted with 
+flush mounted metal skids which: 
+k. 
+May only be fitted in place of plank material. 
+l. 
+Have a tot",Use vibration damping to mimic non-flexibility in floor components.,Impractical
+Article  13.6.1,['Minimal'],"Article 
+13.6.1 (a). 
+g. 
+Minimal apertures for front suspension members.",Exploit temperature-sensitive coatings that soften under load testing.,Medium
+3.6.2,['minimal'],"3.6.2 
+Forward Chassis 
+Bodywork declared as “Forward Chassis” must: 
+a. 
+Lie within RV-CH-FRONT and completely enclose RV-CH-FRONT-MIN.  
+b. When considering both sides of the car, at any X plane, not contain any convex radius 
+smaller than 25mm or a concave radius smaller than 200mm. 
+Once these r",Use vibration damping to mimic non-flexibility in floor components.,High Potential
+Article 3.1.4,['required'],"Article 3.1.4) smaller than 50mm. 
+All other parts of this curve may contain no concave radius of curvature smaller 
+than 200mm. 
+ii. 
+Assessed on any Y plane, whenever two such curves are visible when viewed from 
+the front of the car, no part of either curve may have a concave radius of 
+curvature",Use vibration damping to mimic non-flexibility in floor components.,Impractical
+Article 10.1.4,['flow'],"Article 10.1.4, the aperture must enclose the suspension 
+member, including its fairing, or driveshaft for parts forward of XR= -55. 
+b. For the sole purpose of allowing cooling flow exits, apertures may be added provided 
+they lie within RV-RBW-APERTURE. The total area (per side of the car) of such",Use vibration damping to mimic non-flexibility in floor components.,Low
+3.8.2,"['minimal', 'Minimal']","3.8.2 
+Exhaust Tailpipe 
+Bodywork declared as “Exhaust Tailpipe” must: 
+a. 
+Lie within the union of RV-TAIL and RV-TAIL-EXH. 
+2025 Formula 1 Technical Regulations 
+25 
+26 February 2025 
+© 2025 Fédération Internationale de l’Automobile 
+ 
+Issue 2 
+ 
+Furthermore, when considering both sides of the car",Reduce cooling aperture under 'minimal required' wording.,Low
+3.9.3,['required'],"3.9.3 
+Front Wing Tip 
+Bodywork declared as “Front Wing Tip” must: 
+a. 
+Lie within the RV-FW-TIP. 
+b. Be a single volume with no apertures. 
+Furthermore: 
+c. 
+The following must apply to the intersection between regions of the Front Wing Tip 
+below Z=170 and any plane that contains the X-aligned axi",Redirect airflow through brake ducts under loosely defined dimensions.,High Potential
+Article 3.9.1,['Minimal'],"Article 3.9.1.g, and the maximum deviation for any point of these profiles from its 
+original position must not exceed 40mm. Physical stops must be provided to prevent 
+the FW Flap from being adjusted beyond these limits. 
+e. 
+Minimal exceptions to the geometrical criteria of",Exploit temperature-sensitive coatings that soften under load testing.,Impractical
+Article 3.9.1,"['required', 'minimal']","Article 3.9.1 for the wing profiles may 
+be made in the junction between the adjustable and non-adjustable parts, in order to 
+ensure the necessary level of sealing. Such parts must lie within 3mm from one of the 
+two surfaces of revolution and their maximum size must be the minimum necessary 
+amoun",Exploit temperature-sensitive coatings that soften under load testing.,Low
+3.10.1,['minimal'],"3.10.1 Rear Wing Profiles 
+Bodywork declared as “Rear Wing Profiles” must: 
+a. 
+Lie within RV-RW-PROFILES. 
+b. In any Y plane: 
+i. 
+Contain exactly two sections. 
+ii. 
+The rearmost section, which will be known as the “RW Flap”, must have a chord 
+smaller than the chord of the adjacent section. 
+iii.",Redirect airflow through brake ducts under loosely defined dimensions.,Impractical
+3.10.5,['required'],"3.10.5 Rear Wing Tip 
+Bodywork declared as “Rear Wing Tip” must: 
+a. 
+Lie within the RV-RW-TIP. 
+b. Be a single volume with no apertures. 
+Furthermore: 
+c. 
+The following must apply to the intersection between regions of the Rear Wing Tip 
+above Z=670 and any plane that contains the X-aligned axis [",Design adaptive aero parts that deform only above 250 km/h.,High Potential
+Article 3.10.10,['minimal'],"Article 3.10.10. They must: 
+a. 
+With the exception of minimal local changes where the two sections are adjacent to 
+each other and with the rearmost element in the closed position, have an inner profile 
+that is coincident to the section they are fixed to, an outer profile that is an offset of the ",Exploit temperature-sensitive coatings that soften under load testing.,High Potential
+Article 3.10.1,['minimal'],"Article 3.10.1) must have a minimum 
+gap of between 9.4mm and 85mm. This will be measured with a spherical gauge. 
+In order to achieve the above adjustment, the actuator mechanism and any associated 
+minimal fairings must lie inboard of Y=25, below Z=940 and not extend beyond 
+RV-RW-PROFILES in the ",Reduce cooling aperture under 'minimal required' wording.,Impractical
+3.12.5,['minimal'],"3.12.5 A slip sensor and its minimal fairings may be mounted underneath the Forward Chassis 
+provided it lies entirely within 25mm of the car centre plane, above Z=120 and in the region 
+50 < XF < 450. The external surface of the combined slip sensor and fairings must form a 
+single curve when inter",Design adaptive aero parts that deform only above 250 km/h.,High Potential
+3.13.1,['minimal'],"3.13.1 General principles 
+Geometry declared as “Front Wheel Bodywork” and “Rear Wheel Bodywork” must comprise 
+of all the components described in Articles 3.13.2 to 3.13.7. 
+When referred to individually, these components will have the words “Front” or “Rear” 
+added to the component name. 
+Any crit",Design adaptive aero parts that deform only above 250 km/h.,High Potential
+3.13.2,"['minimal', 'flow']","3.13.2 
+Drum 
+The Front and Rear Drums must be made respectively to the geometry defined by 
+RS-FWH-DRUM and RS-RWH-DRUM. 
+For each drum, a circumferential, continuous (around an arc of 360°), and uniform 
+aerodynamic seal must be fitted in the outboard of the two annotated volumes, in order to 
+pre",Use vibration damping to mimic non-flexibility in floor components.,High Potential
+3.13.3,"['minimal', 'flow']","3.13.3 Scoop 
+The Front and Rear Scoop must lie within RV-FWH-SCO and RV-RWH-SCO respectively. 
+Any part of the Scoop which is in contact with the external air stream must be tangent 
+continuous and be fully visible when viewed parallel to the YW axis from inboard. These 
+criteria will be assessed p",Redirect airflow through brake ducts under loosely defined dimensions.,Low
+3.13.5,['flow'],"3.13.5 
+Front Drum Deflector 
+The Front Drum Deflector must be made to the geometry defined by RS-FWH-DEFL. 
+In order to adapt the component of the Front Drum Deflector forward of XW= -30 to the local 
+flow conditions, a +/-6° tolerance in its incidence will be accepted. Any such rotation must be 
+m",Design adaptive aero parts that deform only above 250 km/h.,Medium
+3.13.6,['flow'],"3.13.6 
+Rear Drum Deflector 
+The Rear Drum Deflector must be made to the geometry defined by RS-RWH-DEFL, with the 
+exception of surfaces below the annotated curve “TRIM LINE” in RS-RWH-DEFL which may be 
+trimmed.  The part of the resulting trimmed Rear Drum Deflector below the annotated curve 
+“SIN",Design adaptive aero parts that deform only above 250 km/h.,Medium
+Article 10.3.6,['Minimal'],"Article 10.3.6, with 
+the exception of those of circular cross section. 
+Each suspension fairing must: 
+a. 
+Fully cover the suspension member it corresponds to and any other components 
+supported on it, such as hydraulic brake lines, electrical wiring and wheel tethers (all of 
+which must be support",Reduce cooling aperture under 'minimal required' wording.,High Potential
+Article  10.3.3,"['minimal', 'deform']","Article 
+10.3.3. In such cases, any shared cover sections may deform or articulate a minimal 
+amount to accommodate nominal misalignment of the relevant suspension members 
+through the suspension travel range.  
+Furthermore, the surface bounded by the external cross-sections of each suspension fairi",Use vibration damping to mimic non-flexibility in floor components.,Low
+3.14.2,['minimal'],"3.14.2 Fairings of suspension members which share an attachment point will be considered by a 
+virtual dissection into discrete components. Such fairings will be allowed local minimal 
+exceptions to",Reduce cooling aperture under 'minimal required' wording.,Medium
+Article 3.14.1,['minimal'],"Article 3.14.1 (d), (g) and (h) close to the junction of the suspension members, 
+including minimal cut outs to allow the passage of a suspension member connected inboard 
+to the rockers defined in",Redirect airflow through brake ducts under loosely defined dimensions.,Impractical
+3.14.4,['minimal'],"3.14.4 In order to permit suspension travel while maintaining an aerodynamic seal, minimal flexible 
+components may be fitted between the Suspension Fairings and the following components: 
+a. 
+The Front Bodywork defined in",Reduce cooling aperture under 'minimal required' wording.,Impractical
+Article 10.4.1,['Minimal'],"Article 10.4.1. 
+With the car at its legality ride height, these flexible components must: 
+f. 
+Contain a fillet radius of up to 30mm between the components they are sealing. 
+g. 
+Other than the fillet radius described above, conform with the shape restrictions of 
+either of the two components they ",Design adaptive aero parts that deform only above 250 km/h.,Impractical
+3.15.8,['required'],"3.15.8 
+Central Floor Flexibility 
+a. 
+Bodywork within RV-PLANK may deflect no more than 2mm at the two holes in the 
+plank at XF=1080 and no more than 2mm at the rearmost hole, when the car, without 
+driver, is supported at these positions. The car will be supported on 70mm diameter 
+pads, centred ",Redirect airflow through brake ducts under loosely defined dimensions.,Low
+Article 3.5.9,['required'],"Article 3.5.9.e. will only be assessed in the 
+regions that are at least 90% as stiff as the stiffest part of the periphery. Any designs 
+intended to protect these regions of the periphery from wear will not be accepted. 
+Competitors will be required to demonstrate compliance with these provisions b",Reduce cooling aperture under 'minimal required' wording.,Low
+Article 3.5.7,"['minimal', 'required']","Article 3.5.7 (c) and associated fasteners. No 
+bracket may have a mass greater than 0.1kg. 
+g. 
+Wires or rods of 2mm diameter or less, and brackets of the minimal dimensions 
+required for the purpose of holding these in place. 
+h. Metallic components added for wear protection provided that: 
+i. 
+No",Reduce cooling aperture under 'minimal required' wording.,Medium
+Article 4.7,['required'],"Article 4.7), at any time during the Competition. 
+If, when required for checking, a car is not already fitted with dry-weather tyres, its mass will 
+be determined using a set of dry-weather tyres selected by the FIA technical delegate.",Design adaptive aero parts that deform only above 250 km/h.,High Potential
+0.5,['required'],"0.5kg. 
+If, when required for checking, a car is not already fitted with dry-weather tyres, its mass will 
+be determined using a set of dry-weather tyres selected by the FIA technical delegate. 
+If, when required for checking, a Heat Hazard has been declared, the increase in mass will not 
+be consid",Reduce cooling aperture under 'minimal required' wording.,High Potential
+4.4,['required'],"4.4 
+Ballast 
+Ballast can be used provided it is secured in such a way that tools are required for its removal 
+and that it remains immobile with respect to the sprung mass in its entirety. It must be 
+possible to fix seals if deemed necessary by the FIA technical delegate. 
+Competitors must show by",Reduce cooling aperture under 'minimal required' wording.,Low
+5.1.8,['minimal'],"5.1.8 
+Energy Store (ES) 
+The part of ERS that stores energy, including its safety control electronics and a minimal 
+housing.",Design adaptive aero parts that deform only above 250 km/h.,Medium
+5.1.13,['required'],"5.1.13 High pressure Fuel pump 
+A mechanical device whose sole function is to pressurise the fuel to the pressure required for 
+the high-pressure injection. It may be electronically controlled. 
+2025 Formula 1 Technical Regulations 
+50 
+26 February 2025 
+© 2025 Fédération Internationale de l’Automob",Exploit temperature-sensitive coatings that soften under load testing.,Impractical
+5.1.14,"['flow', 'Flow']","5.1.14 
+Fuel Flow meter 
+A sensor whose function is to measure the flow of the fuel passing through it.",Reduce cooling aperture under 'minimal required' wording.,Medium
+5.2.3,['flow'],"5.2.3 
+Fuel mass flow must not exceed 100kg/h.",Exploit temperature-sensitive coatings that soften under load testing.,Medium
+5.2.4,['flow'],"5.2.4 
+Below 10500rpm the fuel mass flow must not exceed Q (kg/h) = 0.009 N(rpm)+ 5.5.",Reduce cooling aperture under 'minimal required' wording.,Medium
+5.2.5,['flow'],"5.2.5 
+At partial load, the fuel mass flow must not exceed the limit curve defined below: 
+- Q (kg/h) = 10 when the engine power is below -50kW 
+- Q (kg/h) = 0.257 x engine power (kW) + 22.85 when the engine power is above -50kW",Design adaptive aero parts that deform only above 250 km/h.,Low
+5.3.2,['flow'],"5.3.2 
+Energy flows, power and ES state of charge limits are defined in the energy flow diagram 
+shown below: 
+ 
+2025 Formula 1 Technical Regulations 
+54 
+26 February 2025 
+© 2025 Fédération Internationale de l’Automobile 
+ 
+Issue 2 
+ 
+When the car is on the track a lap will be measured on each succ",Redirect airflow through brake ducts under loosely defined dimensions.,Medium
+5.7.2,['required'],"5.7.2 
+Teams may be required to demonstrate the accuracy of the power unit configurations used 
+by the FIA Standard ECU.",Use vibration damping to mimic non-flexibility in floor components.,High Potential
+5.9.3,['flow'],"5.9.3  
+The total fluid mass flow passing through the exhaust tailpipe defined in",Exploit temperature-sensitive coatings that soften under load testing.,Impractical
+Article 3.8.2,['flow'],"Article 3.8.2.b may 
+only exceed 1000kg/h when the sum of the intake air demand and the quantity of fuel 
+injected exceeds this value, “intake air demand” being the intake air mass flow strictly 
+necessary for the combustion to achieve the torque demand under the specified conditions.",Reduce cooling aperture under 'minimal required' wording.,High Potential
+5.11.3,['flow'],"5.11.3 All cars must be fitted with two fuel flow meters, wholly within the fuel tank, which have 
+been manufactured and calibrated by the FIA designated suppliers to specifications 
+determined by the FIA. These sensors may only be installed and used as specified by the FIA 
+Technical Department. Fu",Redirect airflow through brake ducts under loosely defined dimensions.,Low
+5.11.5,['flow'],"5.11.5 Any device, system or procedure the purpose and/or effect of which is to increase the flow 
+rate or to store and recycle fuel after the measurement point is prohibited. Additional 
+measurements in each sub-circuit of the fuel system may be requested in order to check 
+compliance. When fuel fl",Exploit temperature-sensitive coatings that soften under load testing.,Medium
+5.13.1,['required'],"5.13.1 The system will be considered shut down when no high voltage can be present on any 
+external or accessible part of the ERS, or across any capacitor belonging to the MGU control 
+units. 
+It must be possible to shut down the ERS via the following means : 
+a. 
+The switch required by",Exploit temperature-sensitive coatings that soften under load testing.,Medium
+Article 8.8.1,['required'],"Article 8.8.1. 
+b. The switches required by",Reduce cooling aperture under 'minimal required' wording.,Low
+Article 8.8.2,['required'],"Article 8.8.2. 
+c. 
+The switch or button required by",Use vibration damping to mimic non-flexibility in floor components.,Impractical
+5.14.1,['flow'],"5.14.1 Unless specified otherwise, ancillaries may be mechanically or electrically driven. Any 
+electrically driven ancillary cannot be linked mechanically to any drivetrain, including the 
+Power Unit. Ancillaries cannot be used to propel the car.  
+With the exception of batteries of less than 100 k",Use vibration damping to mimic non-flexibility in floor components.,Impractical
+5.19.1,['flow'],"5.19.1 
+All components of the power unit exhaust system, (from the cylinder head up to and 
+including turbine housing or waste-gate exit housing) that are in contact with the main 
+exhaust gas flow must be manufactured from a Cobalt, Iron or Nickel based alloy. Any gaskets 
+or seals are excluded fro",Design adaptive aero parts that deform only above 250 km/h.,Low
+5.25.5,['required'],"5.25.5 To mitigate the risk failure mode where a high voltage is AC coupled onto the car’s low 
+voltage system, bonding is required for any system component to which a wire, cable or 
+harness connects, or passes in close proximity, and which is able to conduct current by means 
+of AC coupling.  
+The",Design adaptive aero parts that deform only above 250 km/h.,Medium
+6.2.3,['required'],"6.2.3 
+All fuel lines between the fuel tank and the engine must have a self-sealing breakaway valve. 
+This valve must separate at less than 50% of the load required to break the fuel line fitting or 
+to pull it out of the fuel tank.",Redirect airflow through brake ducts under loosely defined dimensions.,Impractical
+6.4.2,['Flow'],"6.4.2 
+The fuel in a car must not be colder than the lowest of: ten degrees centigrade below 
+ambient temperature, or ten degrees centigrade, at any time when the car is running after 
+leaving the Competitor's designated garage area.  
+When assessing compliance: 
+a. 
+The ambient temperature will be ",Reduce cooling aperture under 'minimal required' wording.,High Potential
+6.5.2,['required'],"6.5.2 
+Competitors must ensure that a 1.0 litre sample of fuel may be taken from the car at any time 
+during the Competition. 
+After a practice session, sprint session, and race, if a car has not been driven back to the pits 
+under its own power, it will be required to supply the above mentioned sam",Reduce cooling aperture under 'minimal required' wording.,Medium
+6.6.2,['flow'],"6.6.2 
+The primer pump(s), high pressure pump, fuel flow meters and pressure and temperature 
+sensors are SSC, as mandated by the FIA and specified in the",Use vibration damping to mimic non-flexibility in floor components.,Low
+Appendix  t,['Flow'],"Appendix 
+to the Technical and Sporting Regulations. The total length of flexible hose in the system 
+between the primer pump(s) and the Breakaway Valve must not exceed 1000mm. The total 
+length of flexible hose in the system between the Breakaway valve and the High Pressure Fuel 
+Pump must not exce",Use vibration damping to mimic non-flexibility in floor components.,Low
+6.6.5,['Flow'],"6.6.5 
+If a fuel pressure damper is fitted it must be fitted upstream of both Fuel Flow Meters 
+described in",Reduce cooling aperture under 'minimal required' wording.,Medium
+8.5.2,['adequate'],"8.5.2 
+Any data acquisition system, telemetry system or associated sensors additional to those 
+provided by the FIA Standard ECU and FIA ADR must be physically separate and electrically 
+isolated from any control electronics with the exception of: 
+a. 
+The primary regulated voltage supply. 
+b. The c",Design adaptive aero parts that deform only above 250 km/h.,High Potential
+Article 8.12,['required'],"Article 8.12; 
+b. Handshaking required by the car to team telemetry system defined in",Redirect airflow through brake ducts under loosely defined dimensions.,High Potential
+Appendix t,['required'],"Appendix to the Technical and Sporting Regulations. 
+Any decision as to whether a camera or camera housing is fitted in those positions will be by 
+agreement between the relevant Competitor and the Commercial Rights Holder. 
+If a car is not required to carry either a camera in the helmet of the driv",Use vibration damping to mimic non-flexibility in floor components.,Medium
+9.1.6,['minimal'],"9.1.6 
+Integrated Cassette 
+A cassette will be considered integrated if it is predominantly of the same material as the 
+Gearbox Case and is permanently fixed to it. The minimal structure enclosing the Driveline 
+Components and Gear-Change Components will be considered as the Cassette.",Redirect airflow through brake ducts under loosely defined dimensions.,High Potential
+9.3.1,['required'],"9.3.1 
+Clutch operating devices must be in the form of paddles, which comply with the following 
+principles: 
+a. 
+There should be a maximum of two, mounted on the steering wheel for direct access in 
+all circumstances. 
+b. They should be of pull-type, opening the clutch when pulling the paddle towar",Use vibration damping to mimic non-flexibility in floor components.,High Potential
+9.3.2,['should not'],"9.3.2 
+Designs which allow specific points along the travel range of the clutch operating device to be 
+identified by the driver or assist him to hold a position are not permitted. 
+In order to prevent interaction between the clutch paddles and other driver control devices, 
+at least one of the foll",Exploit temperature-sensitive coatings that soften under load testing.,Impractical
+10.3.6,['Minimal'],"10.3.6 
+The structural part of each suspension member must: 
+a. 
+In any normal cross section relative to its load line (defined as a straight line between 
+the inner and outer attachment point centres of the member) have two orthogonal 
+axes of symmetry. Over the whole length of the member, the cros",Exploit temperature-sensitive coatings that soften under load testing.,Impractical
+Article 10.2.6,['minimal'],"Article 10.2.6. Such 
+links must be rigid and of minimal mass and design so as to achieve the linking mechanism. 
+Links using a fluid medium are not permitted.",Reduce cooling aperture under 'minimal required' wording.,Low
+10.5.3,['required'],"10.5.3 Power assisted steering systems may not be electronically controlled or electrically powered. 
+No such system may carry out any function other than reduce the physical effort required to 
+steer the car.",Use vibration damping to mimic non-flexibility in floor components.,High Potential
+Article 17.4,['required'],"Article 17.4, the FIA will appoint a standard supplier for 
+wheel rims and the Competitors will be required to use these rims. 
+The front wheel rim assembly shall be that defined by drawing FIA-000000664 - Standard F1 
+Front Wheel Assembly - RE2016. 
+The rear wheel rim assembly shall be that defined",Exploit temperature-sensitive coatings that soften under load testing.,Low
+12.2.1,"['required', 'adequate']","12.2.1 
+Cockpit Opening 
+In order to ensure that the opening giving the driver access to the cockpit is of adequate size; 
+with the exception of the steering wheel, steering column, chassis mounted PCU8 display 
+unit, seat and all padding required by",Reduce cooling aperture under 'minimal required' wording.,Medium
+12.2.2,['minimal'],"12.2.2 Survival Cell Dimensions 
+Before the openings and recesses allowed in Articles 12.2.1, 12.2.4 and 12.2.5 are created, a 
+single volume, which is symmetrical about Y=0, continuous, and has no apertures must be 
+defined in accordance with the conditions laid out in (a)-(d), below. For this purp",Redirect airflow through brake ducts under loosely defined dimensions.,Low
+Article 13.5.1,"['required', 'Minimal']","Article 13.5.1. The area of each such recess for each side 
+impact structure must not exceed 8 000mm² when projected onto a Y-plane.  
+b. For the sole purpose of allowing the secondary roll structure front fixing and fairings to 
+be installed in accordance with Articles 12.4.2 and 3.12.3 (b). The to",Exploit temperature-sensitive coatings that soften under load testing.,Low
+Article 3.5.6,"['deform', 'flow']","Article 3.5.6 such that no part of the structure is in contact with the external air flow. 
+b. Must be rigidly mounted to the Survival Cell using at least 4 fasteners.  
+c. 
+Must only deform in the event of an impact with the ground.  
+Furthermore, the Front Floor Structure and Floor Auxiliary Compo",Redirect airflow through brake ducts under loosely defined dimensions.,Impractical
+Appendix t,['required'],"Appendix to the Technical and Sporting 
+Regulations is maintained. 
+This laminate should extend in a longitudinal sense from A-A to the rear of the survival cell. 
+The laminate should cover: 
+a. 
+From A-A to B-B, all surfaces which lie on or outside RV-CH-FRONT-MIN and which in 
+side view are more t",Use vibration damping to mimic non-flexibility in floor components.,Impractical
+12.3.4,['should not'],"12.3.4 
+Frontal Intrusion 
+It must be demonstrated by calculation that during a collision, the rear impact structure of a 
+car ahead could not enter the survival cell through the front bulkhead if the Front Impact 
+Structure were not present. For this calculation, a load of [220, 0, 0] kN should be ",Use vibration damping to mimic non-flexibility in floor components.,Medium
+12.4.1,['Minimal'],"12.4.1 
+Principal Roll Structure 
+The principal roll structure must satisfy the following geometric requirements:  
+a. 
+It must have structure at [XC=55, 0, 968]. 
+b. A horizontal section through the structure at Z=950 must enclose an area of at least 
+6000mm². The cross-sectional area may not be le",Redirect airflow through brake ducts under loosely defined dimensions.,Impractical
+Article 13.3.1,['required'],"Article 13.3.1 contacts the structure, at the intersection of the external surface and 
+openings for an internal duct, and for the mounting of Camera 4. 
+d. A horizontal section through the structure at Z=910 must enclose an area of at least 
+10000mm². Furthermore, the section must enclose an axis-a",Use vibration damping to mimic non-flexibility in floor components.,Low
+12.5.4,['required'],"12.5.4 Internal cockpit volumes 
+a. 
+With the exception of the steering wheel, pedal assembly, driver’s seat, and any 
+padding that is required by",Redirect airflow through brake ducts under loosely defined dimensions.,Low
+Article 12.6.2,['required'],"Article 12.6.2, no part of the car may lie within a volume 
+created by sweeping the outer vertical section shown in Drawing 3 of Appendix 2 
+between XC= -850 and XC= -1415. 
+b. With the exception of the steering wheel, steering column, driver’s seat, and pedal 
+assembly, no part of the car may lie w",Design adaptive aero parts that deform only above 250 km/h.,Low
+Article  12.6.1,['required'],"Article 
+12.6.1. 
+ii. 
+Items required for the driver to control the car e.g. steering wheel, steering 
+column, dash display, switch panels, associated looms, driver microphone & 
+earpiece. 
+iii. Items that need to be accessed whilst the driver is seated in the car e.g. SDR 
+download connector, conne",Redirect airflow through brake ducts under loosely defined dimensions.,Impractical
+Article 8.10.2,['required'],"Article 8.10.2. 
+ix.  The accelerometer required by",Exploit temperature-sensitive coatings that soften under load testing.,Medium
+Appendix t,"['expected', 'required']","Appendix to the Technical and Sporting Regulations. 
+c. 
+Are covered, in all areas where the driver’s head is likely to make contact, with laminate 
+PL-HEADREST. 
+2025 Formula 1 Technical Regulations 
+105 
+26 February 2025 
+© 2025 Fédération Internationale de l’Automobile 
+ 
+Issue 2 
+ 
+d. Are positi",Exploit temperature-sensitive coatings that soften under load testing.,Impractical
+Article 14.5,"['move', 'should not']","Article 14.5 
+fastened. However, with the safety harness unfastened, the dummy must be able to move 
+forwards freely in the cockpit. The dummy shall be equipped with a helmet to FIA8860 or 
+FIA8859 and an FHR to FIA8858 (the mass of the helmet and FHR should be recorded, but 
+should not be included ",Exploit temperature-sensitive coatings that soften under load testing.,Medium
+13.4.9,['should not'],"13.4.9  Nose Push-off Test 
+During this test, the survival cell must be resting on a flat plate and secured to it solidly but 
+not in a way that could increase the strength of the attachments being tested. 
+A dummy front impact structure may be used for this test. The 250mm of the dummy 
+structure c",Reduce cooling aperture under 'minimal required' wording.,Low
+13.6.1,['minimal'],"13.6.1 Front Impact Structure Specification 
+An impact absorbing structure must be fitted in front of the survival cell. This structure need 
+not be an integral part of the survival cell but must be solidly attached to it and be arranged 
+symmetrically about the car centre plane. 
+The impact absorbi",Redirect airflow through brake ducts under loosely defined dimensions.,Medium
+14.2.3,['required'],"14.2.3 Teams will be required on request to supply the FIA with CAD data with regard to the visibility 
+of their mirror arrangement, and the FIA will retain the right to modify the position of the 
+volume defined in",Reduce cooling aperture under 'minimal required' wording.,Low
+14.4.2,['must be able to withstand'],"14.4.2  Rear Wing Tethers 
+The rear wing assembly must be fitted with two tethers. Each tether should have a cross 
+sectional area of at least 7mm2 and a minimum breaking strength of 5kN. 
+The outer end of each tether should be attached to opposite sides of the rear wing assembly 
+between 500mm and ",Use vibration damping to mimic non-flexibility in floor components.,Low
+15.1.3,['move'],"15.1.3 
+Shape Memory Material 
+A material that is configured to move reversibly between two (or more) different shapes 
+when it is subjected only to a non-mechanical uniform stimulus (thermal, electrical, magnetic, 
+optical, etc.), or exhibits a reversible phase change when subject to an applied str",Design adaptive aero parts that deform only above 250 km/h.,Impractical
+15.2.7,['required'],"15.2.7 Teams are required to make submissions of the materials that they will use on the car as part 
+of their annual homologation submission. These shall be listed according to the categories in",Exploit temperature-sensitive coatings that soften under load testing.,Impractical
+15.6.2,['required'],"15.6.2 The prescribed laminates in use throughout the Technical Regulations are listed below: 
+a. 
+PL-HALO: [KC60, CC100, KC60] stacking sequence is free. 
+b. PL-ANTI-SPLINTER may be one of the three specifications listed below: 
+i. 
+Laminate Type A – a laminate where more than 50% by weight of the ",Design adaptive aero parts that deform only above 250 km/h.,High Potential
+Appendix t,['if applicable'],"Appendix to the Sporting and Technical Regulations with one additional ply per skin 
+(two total) of CC280UHS cloth using the same resin system as the homologated 
+laminate. The orientation of the additional ply in each skin should be the same as the 
+least numerous ply-orientation in that skin. 
+f. ",Exploit temperature-sensitive coatings that soften under load testing.,Medium
+16.1.5,['should not'],"16.1.5 The function of an engine oil is to lubricate moving parts, to improve the overall efficiency of 
+the engine by reducing friction and to reduce wear. It also cleans, inhibits corrosion, improves 
+sealing, and cools the engine by carrying heat away from moving parts. Engine oils should not 
+en",Use vibration damping to mimic non-flexibility in floor components.,Medium
+17.2.8,['required'],"17.2.8 Competitors may make available to other Competitors test facilities and equipment such as 
+(but not limited to) wind tunnels or dynamometers. The Intellectual Property involved in the 
+operation of such shared facilities may be used by and/or disclosed to the sharing party but 
+the results of",Reduce cooling aperture under 'minimal required' wording.,Low
+Article 17.3.4,['required'],"Article 17.3.4), or a TRC (as required by",Redirect airflow through brake ducts under loosely defined dimensions.,Medium
+Article 17.5.8,['required'],Article 17.5.8) or an OSC (as required by,Reduce cooling aperture under 'minimal required' wording.,High Potential
+17.3.3,['required'],"17.3.3 
+Although it is permissible to be influenced by the design or concept of a Competitor's LTC 
+using information that must potentially be available to all Competitors, this information may 
+only be obtained at Competitions or Tests (as defined respectively in Articles 5 and 10.1 3 of 
+the Sport",Exploit temperature-sensitive coatings that soften under load testing.,Low
+17.3.4,['minimal'],"17.3.4 No Competitor may, either directly or via a third party: 
+a. 
+pass on any information in respect of its LTC (including but not limited to data, designs, 
+drawings, or any other Intellectual Property) to another Competitor or receive any 
+information from another Competitor in respect of that ",Use vibration damping to mimic non-flexibility in floor components.,Medium
+17.6.6,['sufficient'],"17.6.6 In the event the OSC or the Design Specification of any OSC contains proprietary information 
+and/or Intellectual Property of a third party supplier, this must be made clear by the 
+Competitor when uploading the Design Specification of the OSC, and use of the uploaded 
+Design Specification (a",Design adaptive aero parts that deform only above 250 km/h.,Impractical
+Article 17.5,['required'],"Article 17.5 for TRCs, however none of these 
+restrictions shall prevent a Competitor from fulfilling their obligations with respect to OSC as 
+required by",Design adaptive aero parts that deform only above 250 km/h.,Low
+Article 4.4,['required'],"Article 4.4) but any 
+in excess of 2kg will be removed 
+before measuring PU mass. 
+INC 
+INC 
+INC 
+INC 
+EXC 
+EXC 
+INC 
+- 
+41 
+Ballast mounted on the PU in 
+excess of 2kg. 
+EXC 
+EXC 
+EXC 
+EXC 
+EXC 
+EXC 
+EXC 
+- 
+42 
+Wiring harnesses which are not 
+ordinarily part of a power unit. 
+EXC 
+EXC 
+EXC 
+EXC 
+E",Reduce cooling aperture under 'minimal required' wording.,Low
+1.3,['required'],"1.3 
+Information provided by the Power Unit Manufacturer to their customer Competitors 
+Any Power Unit Manufacturer intending to homologate a Power Unit for use by a Competitor 
+during a Championship must: 
+a. 
+Declare to the FIA, before 1 August of the preceding year, that they provided to their 
+c",Redirect airflow through brake ducts under loosely defined dimensions.,Medium
+2.2,['required'],"2.2 
+The homologation dossier must: 
+a. 
+include details of all the parts described as “INC” in the “App. 4 PU homol.” column of 
+Appendix 3 of the Technical Regulations. 
+b. include all documents required in",Exploit temperature-sensitive coatings that soften under load testing.,Low
+Appendix h,['required'],"Appendix hereto (which shall be 
+agreed between the Power Unit Manufacturer and the Competitor) shall incur additional 
+charges, the amount of which shall be based on the usages and practices generally 
+recognised and respected in the market for the supply of parts and services in the 
+Championship.",Design adaptive aero parts that deform only above 250 km/h.,Low
+5.1,['minimal'],"5.1 
+A manufacturer may apply to the FIA during the course of the homologation period to carry 
+out modifications to the homologated Power Unit elements for the sole purposes of 
+reliability, safety, cost saving, supply issues, or minimal incidental changes permitted in 5.4 
+below. 
+Applications mus",Redirect airflow through brake ducts under loosely defined dimensions.,Medium
+5.2,['if applicable'],"5.2 
+Modifications may be considered as minor if there is no or very limited effect on reliability 
+and either the design of the part is not changed (e.g. change of supplier, change of part 
+number …etc) or the geometrical change is minor, this attribute being subject to approval of 
+the FIA at its ",Exploit temperature-sensitive coatings that soften under load testing.,Low
+5.4,['Minimal'],"5.4 
+Minimal incidental changes may be carried out for car installation purposes to the following 
+components of the Power Unit: 
+a. 
+Wirings 
+b. Exhaust system, provided the key defining parameters of the system (diameters, 
+lengths, etc.) remain fundamentally unchanged 
+c. 
+Turbo-compressor positi",Exploit temperature-sensitive coatings that soften under load testing.,Medium
+5.8,['minimal'],"5.8 
+Requests for repair of a PU component in the form of a patch made of the same material or 
+made of composite material, following damage or failure, may be accepted if it is only local 
+and minimal. If accepted such repair can be applied to all components available but only on a 
+temporary basis",Design adaptive aero parts that deform only above 250 km/h.,Low
+6.1,['required'],"6.1 
+The first time one or more Power Units comprising modified parts, as permitted by 
+Paragraphs 4 and 5, are used in any of the cars powered by the Power Unit Manufacturer, a 
+minimum of 1 Power Unit with the exact same specification must be available for each 
+2025 Formula 1 Technical Regulation",Use vibration damping to mimic non-flexibility in floor components.,Impractical
+6.4,['required'],"6.4 
+A Power Unit element will be deemed to have been used once the car’s timing transponder 
+has shown that it has left the pit lane. 
+7 
+Conformity with the power unit homologation dossier 
+All Power Units must be delivered such that the seals required under",Redirect airflow through brake ducts under loosely defined dimensions.,Medium
+Article 28.5,['required'],"Article 28.5 of the 
+Sporting Regulations can be fitted. Both the Power Unit Manufacturer and users of a 
+homologated Power Unit must take whatever steps are required at any time by the FIA 
+Technical Department, in its absolute discretion, to demonstrate that a Power Unit used at a 
+Competition is ",Use vibration damping to mimic non-flexibility in floor components.,Medium
+9.2,['if required'],"9.2 
+TRC 
+Shaft between clutch and 
+gearbox (if PU mounted) 
+or PU (if Gearbox 
+mounted) 
+Clutch shaft, intermediate 
+support bearing and 
+bracket if required. 
+Clutch shaft torque sensor 
+3F 
+Clutch shaft 
+torque sensor",Exploit temperature-sensitive coatings that soften under load testing.,Low
+9.5,['required'],"9.5 
+TRC 
+Components that are not 
+included in Driveline or 
+Gear-Change Components 
+but interact directly with 
+these components and are 
+essential for the 
+Oil Pressure and Scavenge 
+Pumps, Oil Filter, Oil Tank, 
+Reverse-gear idler & 
+Actuator, Differential 
+Actuator, local electrical 
+Oil cooler ",Redirect airflow through brake ducts under loosely defined dimensions.,Impractical
+10.5.3,['required'],"10.5.3 
+TRC 
+Steering unit from the 
+attachment to the 
+steering column to the 
+clevises for the track rods, 
+connection to the 
+hydraulic system and 
+connection to the 
+electrical loom 
+Rack assembly, local 
+electrical and electronic 
+components, protective 
+cover, fasteners to 
+survival cell, opti",Redirect airflow through brake ducts under loosely defined dimensions.,High Potential
+6.6.2,['flow'],"6.6.2,6
+.6.3 
+SSC 
+Primer pump(s), and pipes 
+between the primer 
+pump(s) and the 
+breakaway valve. 
+Primer pump(s), flexible 
+pipes and hoses and their 
+fittings between pump(s) 
+and breakaway valve, fuel 
+flow meter inlet pressure 
+and temperature sensors. 
+Components classified as 
+part of collec",Use vibration damping to mimic non-flexibility in floor components.,Impractical
+6.6.6,['flow'],"6.6.6 
+OSC 
+Low pressure fuel system 
+from lift pump inlet filters 
+up to and including chassis 
+breakaway valve or 
+optional inlet filter to high 
+pressure fuel pump (if 
+fitted)  
+Pressure Relief Valves 
+(PRV), Non-Return Valves 
+(NRV), Breakaway Valve, 
+filters, lift pumps, optional 
+damper, rigi",Design adaptive aero parts that deform only above 250 km/h.,High Potential
+6.6.4,['required'],"6.6.4 
+LTC 
+The Sensor and PRV 
+specified in 6.1.4 and 
+shown in diagram 6.6.4 
+Sensor and fittings to fuel 
+bladder. PRV and fittings 
+to fuel bladder 
+Fuel bladder 
+7 
+Hydraulic System  
+7A 
+Hydraulic 
+pump and 
+accumulator 
+  
+TRC 
+  
+Hydraulic pump, hydraulic 
+accumulator, local 
+electrical and ",Use vibration damping to mimic non-flexibility in floor components.,Medium
+5.3.2,['Flow'],"5.3.2 
+SSC 
+  
+  
+  
+10B 
+Fuel Flow 
+Meter",Design adaptive aero parts that deform only above 250 km/h.,High Potential
+5.11.3,['flow'],"5.11.3 
+SSC 
+ Prescribed fuel flow 
+meters 
+  
+ Fittings, hoses, pipes, AV 
+mounts 
+10C 
+Power Unit 
+Pressure and 
+Temperature 
+sensors",Design adaptive aero parts that deform only above 250 km/h.,Impractical

@@ -1,0 +1,159 @@
+Speed and Statutes: How Legal Loopholes Fuel F1’s Greatest Innovations
+
+HOME
+ABOUT
+BLOG ARTICLES
+WRITING STAFF
+EVENTS
+CAREERS
+STUDENT RESEARCH
+More
+[1]
+Formula 1 (“F1”), the highest echelon of global motorsports, has created a unique display blending ingenuity, engineering, and mechanical design. However, unlike any other sport, underlying all the design limitations exists a rigid legislative set of regulations acting as the true backbone of F1. Established by the governing body of F1 – the Fédération Internationale de l'Automobile (“FIA”)– these regulations govern all aspects of the sport, from the legality of car designs to drivers' contracts to the intellectual property of every nut, bolt, and bit of data. While drivers meticulously scrutinize every inch of the track to find milliseconds which can dictate a win, whole seasons and championships have been won and lost due to the litigation of team attorneys.  Legal teams get no trophies but are the silent heroes of the track and without their understanding of exhaustive regulations, no podium would count. They aren't showered in champagne but remain among the most critical components of the team.
+
+Mercedes’ Loophole: The D.A.S. System
+
+No other sport requires the carefully cultivated blend of technological innovation, human achievement, and legal support. Yet, all are irreplaceable in achieving success in the paddock. At the height of their dominance, the Mecedes-AMG Petronas F1 Team (“Mercedes”) noticed a loophole in the regulations which they used to develop a game-changing innovation.[2] The Dual Axis Steering (“DAS”) system allowed Mercedes drivers to push in and pull out their steering wheel. The DAS system adjusts the angle of the tires to allow more grip in the corners, straight-line speed, and less wear on the tires throughout the entire race.[3] Tip-toeing on the edge of legality, the DAS system sat in the grey space of regulations governing the overlap between steering systems and the suspension.[4]
+
+The FIA's analysis of the Mercedes system focuses on regulations Article 10.2.3 ("No adjustment may be made to any suspension system while the car is in motion)[5] and Article 10.4.1 ("Any steering system which permits the re-alignment of more than two wheels is not permitted.")[6] Keen-eyed legal representatives at Mercedes quickly realized a way to exploit this gap in the regulations through the distinct and unique design of the DAS system and its interaction with the rest of the car.
+
+First, they were able to argue the DAS system was an adjustment to the steering and not an adjustment to the suspension as it was connected to the same central mechanism as the steering system.[7] Additionally, the DAS system only effected the alignment of the front two wheels rendering its application in full compliance with all legal and technical regulations.6 Up until the recent success of Redbull Racing (“Redbull”), Mercedes had an apparent stronghold on F1 dominance, evident through their over 120 race wins, 8 Constructors' Championships, and 7 World Drivers' Championships since its return to the grid in 2010.[8]
+
+The 2020 Mercedes implementing the DAS system came at the pinnacle of their performance, bringing home the checkered flag for over three-quarters of the season. While world class drivers and some of the best strategists aided in their success, the DAS system was a clear advantage over their competitors.[9] Following the inevitable protests from many teams in the paddock, the FIA ruled that the DAS system was legal within the regulations, while expressing their intentions to ban the system in future seasons.[10] Mercedes' innovative implementation of the DAS system is a clear example of how a diligent interpretation of the regulations can push the boundaries and exploiting the grey areas across broad technical regulations. This serves to show how teams can and will utilize every means possible to gain even a millisecond advantage on the track.
+
+McLaren’s “Mini-DRS”
+Success in F1 ebbs and flows at drastic rates, with McLaren Formula 1 Team’s (“McLaren’s”) current rise to form indicating how fast things can derail or come together. While the start of the 2023 season saw McLaren struggling in last place, they would end the 2024 season winning the constructors championship seemingly turning things around overnight. Unfortunately, rising to the top only encouraged other teams to claw at every chance to drag McLaren back down.
+This reaping for McLaren began following their win at the Azerbaijan Grand Prix, where on-board videos of their car showed the rear wing flexing on the straights, creating a small gap in the wing mimicking a quasi-DRS (Drag Reduction System) leading to increased speed on the straight segments of the track.[11] The wing was designed to then return to its normal position through the corner turns, increasing downforce and grip.[12] Perpetrated by rival Red Bull Racing, McLaren’s wing and its legality was heavily scrutinized. Testing by the FIA found the McLaren wing passed all flexibility standards and fully complied with the regulations.[13]
+Battling wheel to wheel with one of the most successful teams in the sport’s history demands teams to push the boundaries. Here, McLaren’s legal and aerodynamic team exploited the vagueness of the FIAs regulations on rear wings to their advantage. When asked his opinion about this innovation, McLaren driver, Lando Norris, stated “So now I'm proud, I'm happy with what the team are doing – they're pushing the limits and that's what you've got to do if you want to fight at the top and fight against people who are also known for doing such things and exploring every area possible… I'm more proud of the team for pushing every single area that we can.”[14]
+Inevitably, McLaren’s design came at a critical point of the season allowing them to continue their advantage over Red Bull and Scuderia Ferrari (“Ferrari”) resulting in McLaren’s first Constructors Championship win since 1998. Following McLaren’s “mini-DRS,” the FIA would go on to change Article 3.10.1.c and 3.10.10 for the 2025 technical regulations tightening the legal restrictions of teams’ rear wings.[15]
+Looking Ahead
+
+As F1 demands its constructors to go beyond the limits of innovation and speed on the track, success can hinge on the bold engineering designs made possible from legal gaps interwoven throughout the FIA’s regulations. Whether it be Brawn GP’s double diffuser, McLaren’s F-duct, or most recently, the Mercedes DAS system and McLaren’s mini-DRS, F1 has often been shaped by daring designs such as these proving wins can come from more than simply pace, but also a deep understanding of the nuanced regulations.
+
+This coexistence between technological innovation and legislative structure has and will continue to benefit the sport. Teams seeking any means possible to gain an edge over their competition will continue increasing the competitive nature steeped throughout the paddock. This pressure has driven F1 engineers, lawyers, and aerodynamicists to continuously adapt, leading to an entertainment spectacle cemented in judicial ingenuity that has kept F1 the leader in cutting-edge motorsport and automotive design. As the sport continues to evolve, the future seasons are expected to be as exhilarating as they are unpredictable.
+Chris Costa (deputy editor-in-chief) is a 1L from Suffern, New York. At Villanova, he is currently a 1L Representative and Co-Philanthropy Chair for the Sports Law Society. Chris is a lifelong Giants fan and a die-hard McLaren F1 fan. Following graduation he hopes to work as either an in house counsel within the NFL or motorsport or as an agent in sports and entertainment.
+References:
+[1] Rizzo, G. (2025, February 4). F1 2020 - Mercedes. Flickr
+[2] Radovanovic, U. (2023a, December 3). DAS Uncovered: Exploring the genius behind Mercedes’ banned innovation. PlanetF1.
+[3] Id.
+[4] Edmondson, L. (2020, February 21). Mercedes’ Das system: What is it? and is it a 2020 game-changer? ESPN.
+[5] Noble, J. (2020, February 20). Why the FIA believes Mercedes’ Das system is legal. Motorsport.com.
+[6] Id.
+[7] Id.
+[8] Wikimedia Foundation. (2025, January 5). Mercedes-Benz in Formula One. Wikipedia.
+[9] Radovanovic, U. (2023a, December 3). DAS Uncovered: Exploring the genius behind Mercedes’ banned innovation. PlanetF1.
+[10] Id.
+[11] Filisetti, P. (2024, September 17). McLaren’s controversial F1 rear wing explained. RacingNews365.
+[12] PlanetF1. Benson, A. (2024, September 19). FIA says McLaren rear wing complies with rules after Red Bull raised questions about legality. BBC Sport.
+[13] Id.
+[14] Kalinauckas, A., & Mann-Bryans, M. (2024, September 19). Norris 'Proud’ of McLaren’s mini-DRS effect created Baku Intrigue. Motorsport.com.
+[15] Maher, T. (2024, December 13). FIA take McLaren “mini-drs” rear wing action in Forbidden rule update. PlanetF1.
+Tags:
+Subscribe for Updates
+novasportslaw@law.villanova.edu
+VILLANOVA SPORTS LAW. Created with Wix.com
+Cheating or Loophole: Formula One's history of rule breaking
+
+Stay informed and up-to-date with the latest motorsports news from around the world. From Formula One to Formula E, our website offers comprehensive coverage of all the latest developments in the world of motorsports. Get the latest race results, driver updates, and behind-the-scenes insights. Don’t miss a beat – visit our website today!
+Dive deep into the motorsport world. We cover F1, F2, W-Series and more
+With McLaren in the spotlight for their ‘mini-DRS’ let’s take a look back at the previous times that teams have found loopholes in F1
+With McLaren being asked to change their rear wing from Singapore onwards, the question of ‘cheating or loophole’ has once again been thrust into the spotlight.
+Formula One is widely regarded as the ‘pinnacle of motorsport’. This is due to the developmental nature of the sport, which separates it from other Motorsports such as IndyCar or the Feeders series of F2 and F3. The idea is that every team can take a different direction with each aspect of the cars, unlike IndyCar where each team use the chassis and the engine manufacturers and set-ups make up the difference.
+This aspect of Formula One means teams interpret regulations differently. In years with new rules, it often means teams show up with very different-looking looking cars. They are highlighted by Ferrari, Red Bull and Mercedes design choices for 2022.
+However, the room that allows the team to choose their direction often allows for loopholes and boundaries to be pushed. Teams focus on what isn’t mentioned rather than what is.
+Since the beginning of the sport, there are clear examples of the lines being crossed but also examples of the regulations being worked around while still within the legality. Sometimes these ‘loopholes’ lead to championships like with Brawn GP in 2009. Sometimes it ends in a disappointing downturn in performance, like for Ferrari in 2019.
+But what is the difference between a loophole and illegality? And when has that line been drawn in the past?
+The story of Brawn GP has become a tale of triumph. Much like a phoenix from the ashes, Brawn is the story of a team coming from nothing to take the title with Jenson Button in 2009. An exhilarating championship that had innovation at the centre.
+The 2008 financial crisis had led to Honda pulling out of F1 and selling their team to Ross Brawn for just £1. The team still had financial troubles and was the poorest constructor on the grid.
+With 2009 marking the first year under new regulations, many teams had been working on designs with ideas to reduce downforce. Thus the famed double diffuser was found.
+It is believed to have come from a young Japanese engineer who had been working for Honda. When reading the 2009 regulations, he realised that there was a vagueness in the regulations surrounding the size of the diffuser.
+Realising that the regulations only specified the dimensions from one viewpoint. Therefore you could make the diffuser bigger without breaking the regulations. The Honda turned Brawn GP engineers manufactured a second diffuser further forward, increasing the overall volume.
+Brawn arrived in Australia with the fastest car by a margin. Naturally, teams protested and the FIA investigated. In this case, the loophole engineers had found was deemed legal.
+After just the first race there were protests, and not long after the FIA gave their ruling, which gave teams the majority of the season to bring double diffusers. Luckily, the early stages of the season had given Brawn such an edge that they still won both championships.
+However, it seems a key factor in ‘cheating or loophole’ rulings is the point in the season they are found, and whether it goes against the nature of competition.
+Ferrari found themselves at the centre of controversy in 2019. After struggling with their engines for years 2019 marked a change for the prancing horses. They arrived at the 2019 season with superior straight-line speed and an advantage with power in qualifying.
+It wasn’t long before competitors began lodging complaints against the historic team and finally when Red Bull asked for clarification on the fuel system, Ferrari were investigated.
+The rulings and investigation have been shrouded in mystery for years. Although it is widely accepted that Ferrari had found a way to trick the fuel sensor. Allowing the team to put more fuel in their car, while the sensor reading that they were putting in the legal amount. The exact method is still all speculation.
+The investigation by the FIA once again proved no wrongdoing. Though the 2020 regulations around fuel sensors were tightened. It was also rumoured that in 2020 Ferrari was made by the FIA to carry less fuel, which is why they had such a difficult season.
+So although they weren’t ‘cheating’ the rules were changed and the team received a penalty behind closed doors. Some speculate the penalty was because the loophole Ferrari found was against the spirit of the regulations.
+Going against the spirit of the regulations and competition seems to be a fairly consistent reason behind features that are banned despite being legal.
+2020 was the final year of Mercedes’s domination. The Brackley team had dominated the entirety of the hybrid era up until 2021, remaining at the forefront of innovation. One of their most famous pieces of innovation was the DAS or Dual Axis Steering system.
+The system allowed drivers to adjust the toe angle of the front wheels by moving the steering wheel. Giving Mercedes the ability to change the directions the front wheel was pointing as it went into corners, changing it back for the straights.
+It was heavily questioned throughout pre-season testing. However, the FIA deemed it legal.
+Regulations had stated that suspension was not allowed to be altered while a car was in motion. But there was no definition on whether the toe angle alters the suspension or just steering.
+Although the FIA had deemed it legal and allowed Mercedes to continue running it throughout the 2020 season, the system was banned for 2021 despite the regulations not being changed till 2022.
+Many reasons were thrown around regarding its ban. The main ones were it was too expensive under the impending cost cap for other teams to develop their own.
+Once again going against the ‘spirit of the regulations’ as it put Mercedes at an unfair advantage into 2021 if they had kept it.
+Finally, the most recent display of a grey area being used is McLaren’s rear wing from Baku.
+For the 2024 season, McLaren and Mercedes have sported a flexible front and rear wing. Although teams such as Ferrari and Red Bull have called into question its legality. So the FIA had been running tests on both teams throughout the season. At Monza, the FIA declared that all of the flexi-wings were legal.
+However, after Azerbaijan videos surfaced of Oscar Piastri’s rear wing heading down the straight. With the flexibility of the win allowing the corners of the DRS flap to lift slightly. Effectively giving the McLaren a ‘mini-DRS upgrade’ as Charles Leclerc called it. This incited a further investigation from the FIA into the wing that was used in Azerbaijan.
+Then, for Singapore, the FIA requested changes be made to the wing. Despite confirming that it was still ‘legal’. Other teams have now set their sights on McLaren’s front wing. Some teams have immediately begun the process of replicating the legal aspects of McLaren’s rear wing.
+There are different scores of thinking behind why this decision was made, although the McLaren’s rear wing passed tests, many teams thought it was beginning to go too far with the flexing. McLaren wants to avoid having any run-ins with FIA later with this season being so close.
+The FIA hesitate when calling car design aspects cheating. Unlike events such as Spygate or Crashgate, it isn’t clear-cut.
+Formula One doesn’t want to discourage innovation, but equally, they want good racing, with teams close together and fighting for wins. Making that possible for teams by not allowing them to exploit the regulations is key, or giving teams the green flag to replicate the innovations of others.
+One thing is clear, as long as there is Formula One there will always be teams making the most of a loophole.
+Featured Image Credit: Joe Portlock – Formula 1/Formula 1 via Getty Images
+Your email address will not be published. Required fields are marked *
+Comment *
+Name *
+Email *
+Website
+Save my name, email, and website in this browser for the next time I comment.
+Notify me of follow-up comments by email.
+Notify me of new posts by email.
+
+Zeen is a next generation WordPress theme. It’s powerful, beautifully designed and comes with everything you need to engage your visitors and increase conversions.
+F1's stuck with the loopholes that are spoiling racing - The Race
+
+To keep reading the very latest motorsport news,simply subscribe to our free newsletter today
+Get direct access to our journalists, bonus podcast episodes, member
+                discounts + much more when you join our community
+Up Next
+Formula 1’s dirty air phenomenon got worse than expected in 2023 because of loopholes that were not closed quickly enough, and this is unlikely to be improved again before 2026.
+When F1 and the FIA were working on the new ground-effect aero rules for 2022, a key focus was on the downforce a car lost when running in the wake of another.
+The previous generation of cars lost close to 50% of downforce when one car length behind another and when the new rules came in the expectation was that the cars would lose just 15% at the same distance.
+Though these were only ever estimates, the suggestion was F1 got pretty close in 2022, to around 20% of downforce lost at one car length behind.
+As teams developed, they were always going to find ways to produce downforce that meddled with the cleaner wake the regulations aimed to achieve, but the problem got worse than was feared in 2023.
+Earlier this year it was revealed that the cars are now losing 35% of their downforce and that this is partly because the regulations allowed for certain things to be exploited that the FIA had not accounted for.
+Nikolas Tombazis, director of the FIA’s single-seater department, told select media including The Race: “The wake has definitely got a bit worse this year.
+“We knew that it would deteriorate a bit when people develop it a bit more.
+“There were a few particular areas of the car where some loopholes we didn't manage to close soon enough worsened.
+“For example, the front wing endplate area was one of them. Some of the wheel furniture area, the brake ducts, on the inside of the front wheels.
+"These areas made the wake a bit worse. We've learned a bit how to do it next time around.”
+While these lessons will be incorporated into the 2026 car rules, theoretically, the FIA could take swift action to rectify some issues sooner.
+It can outlaw designs that go against the objective of the rules, which is enshrined in the technical regulations as “to enable cars to race closely by ensuring the aerodynamic performance loss of a car following another car is kept to a minimum”.
+That means that while a design can be perfectly legal, the rules and governance in place mean the FIA can throw it out.
+This ability has already been used to take designs that are legal under the rules and outlaw them for the following season, such as some Aston Martin rear wing endplate geometry last year and a Mercedes front wing endplate design.
+But it had also been suggested earlier this year that the FIA could make regulatory changes for 2025 to simply reinforce the existing rules rather than target a specific design.
+This could have been similar to the rule tweaks made in 2019, the most obvious of which were to the front wings, which were simplified to chip away at the outwash.
+This helped manage the problem for the final years of that regulation cycle before the major rules overhaul came in for 2022.
+But now it seems the FIA does not view any action as necessary.
+That is likely to be because the changes needed to improve the situation are almost certainly too big to be worth pushing through for one season.
+Tombazis also reckoned there has not been a deterioration though the current season, only an observable difference at the start of 2023, and said “I don’t think it’s going to get much worse for next year”.
+If so, that’s a key difference to the 2019 changes mentioned previously, when a problem needed containing.
+While inaction could come back to bite the rulemakers, they could always react in 2024 for 2025 if something egregious emerges that severely compromises the cars’ ability to follow and harms racing further.
+There’s another factor to consider that means minor aero tweaks alone will not be enough to address the key problems.
+Several drivers have complained more about thermal degradation from the tyres this season.
+“It's a combination,” said Tombazis. “The fact that the wake worsened a bit also goes together with degradation.”
+A worse wake costs downforce and makes the following car slide around, which the tyres struggle to handle. At the same time, a worse wake means less cool air for the car behind to pass through, which will be cooling the tyres a little less, Tombazis said.
+Any aero changes to improve the quality of racing therefore need to be supported by better quality tyres.
+Now it has been decided to kill the planned tyre blanket ban for 2025, Pirelli has more scope to focus its development work on better thermal degradation.
+That might mean a decent, important step for 2025 already, which would then be twinned with bigger aero changes and lighter cars for 2026.
+“One of the key objectives during testing in 2024, especially now that we've clarified that there's no chance of taking off the blankets for 2025, will be to improve the thermal degradation characteristics,” said Tombazis.
+“Most of this comes from the fact that cars nowadays basically put into the tyres the highest energies that we've ever seen.
+“And that's one of the reasons that for 2026 we're considering lower downforce cars and also to save weight.
+“We believe that will also make it much more possible to have tyres that are a lot less prone to have this phenomenon in 2026.”
+All of that probably makes it easier for the FIA to stomach not doing anything right now.
+Teams will keep developing their cars, though, and that will result in adding more downforce.
+Exactly how they will do that and whether it makes the cars’ wake characteristics even worse is something the FIA will only find out in time.
+But it would not be a surprise if following continued to get worse next year and in 2025.
+How did Red Bull manage to emerge with the quickest car and stun McLaren at Imola? That's the key question on The Race F1 Podcast after the Emilia Romagna GP
+Was this another win Red Bull and a virtuoso Max Verstappen stole from McLaren? Or has Red Bull made a genuine competitive breakthrough with its 2025 F1 car?
+Esteban Ocon and Kimi Antonelli both stopped in roughly the same place in Formula 1’s Emilia Romagna Grand Prix - so why was one a virtual safety car and the other a full safety car?
+Some F1 drivers' and teams' races were turned on their heads by strategy calls at Imola. For others, their fates looked to have been determined long before that
+For the second time in 2025, McLaren lost a winnable race to a much-stronger-than-expected Red Bull. Should McLaren be worried?
+Max Verstappen's opportunistic around-the-outside overtake that surprised Oscar Piastri was the decisive moment in F1's Imola race - and a move that Verstappen didn't think was on at first
+The Race started in February 2020 as a digital-only
+                    motorsport channel. Our aim is to create the best motorsport
+                    coverage that appeals to die-hard fans as well as those who
+                    are new to the sport.
