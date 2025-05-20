@@ -20,13 +20,13 @@ This project is an AI-powered analyzer designed to uncover **realistic performan
 ```
 
 F1-Loophole-Analyzer/
-├── f1\_loophole\_formatted.ipynb         # 🧪 Full Jupyter pipeline
-├── loophole\_engine.py                  # 🧠 Modular version for CLI/batch use
-├── tavily\_cache.json                   # 🌐 Cached FIA search content
-├── checkpoint\_loopholes.json           # ♻️ Tracks execution progress
-├── fia\_loophole\_ranking\_safe\_top.csv   # 📊 Sample output
-├── requirements.txt                    # 📦 Project dependencies
-└── README.md                           # 📘 Project overview
+├── f1\_loophole.ipynb                       # 🧪 Full Jupyter pipeline
+├── loophole\_engine.py                      # 🧠 Modular version for CLI/batch use
+├── tavily\_cache.json                       # 🌐 Cached FIA search content
+├── checkpoint\_loopholes.json               # ♻️ Tracks execution progress
+├── fia\_loophole\_ranking\_safe\_top.csv    # 📊 Sample output
+├── requirements.txt                         # 📦 Project dependencies
+└── README.md                                # 📘 Project overview
 
 ```
 
